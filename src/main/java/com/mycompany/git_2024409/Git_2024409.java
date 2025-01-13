@@ -15,7 +15,7 @@ public class Git_2024409 {
     public static void main(String[] args) {
         System.out.println("Syed Arslan Haider-2024409");
         Scanner myKB = new Scanner (System.in);
-//        The variable 'movieName' is a string used to store name of movie enter by user
+
         String movieName;
         int userAge;
         
